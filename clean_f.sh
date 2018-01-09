@@ -8,7 +8,7 @@ function helping ()
 	|   Program 'clean.bash' służy do porządkowania  katalogów.   |
 	|   Wywołanie programu spowoduje  sprawdzenie czy w obecnym   |
 	|   katalogu znajdują  się podkatalogi  wymienione w  pliku   |
-	|   'clean.bash'. Jeśli podkatalogi nie istnieją to program   |
+	|   'clean.sh'. Jeśli podkatalogi nie istnieją to program     |
 	|   je utworzy. Kolejnym krokiem jest segregowanie plików z   |
 	|   odpowiednimi rozszerzeniami do odpowiednich  katalogów.   |
 	|   W każdym katlogu tworzone są  pliki 'log.txt'. Pliki te   |
